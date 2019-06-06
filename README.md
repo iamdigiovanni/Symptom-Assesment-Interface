@@ -13,3 +13,4 @@ The "Pain Assessment" portion of the interface with the body imaging is ideally 
 We also were assigned a very similar project where a patient check in portal was designed according to specific guidelines. 
 I will post a screenshot of it below but similar to the previous interface, it was really our first look at designing user interfaces in general using visual studio and there is nothing going on in the backend, meaning when you click a button nothing happens. In my next upload on github I will show an android application designed in the same class where there is actual working code.
 
+![Capture](https://user-images.githubusercontent.com/51376713/58997916-3855d600-87c4-11e9-954d-aaf703b37e26.JPG)
